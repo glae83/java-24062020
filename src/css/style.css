@@ -1,0 +1,20 @@
+.button{
+
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-border-width: 0 0 1 0;
+    }
+
+}
+
+#btnAdd{
+    -fx-background-color: #ff9c29;
+}
+
+.button:hover {
+     -fx-background-color: #c5ff10;
+ }
+
+#btnAdd:hover  {
+     -fx-background-color: #6bff33;
+ }
